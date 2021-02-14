@@ -1,8 +1,8 @@
 {
-  "name": "zce-pages",
-  "version": "1.0.0",
+  "name": "zce-gulp-pages",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "clean": "gulp clean",
     "lint": "gulp lint",
